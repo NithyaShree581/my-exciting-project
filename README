@@ -1,1 +1,14 @@
-This is a sample README.
+# Country Capital API 
+‘country-capital-api’ that houses the code
+for an API written in Python and Flask that returns the name of the coun
+try if a capital city is provided.
+
+#Prerequisites
+Flask
+python 
+pip
+uvicorn
+
+#Steps to install the dependencies easily 
+```bash
+pip install -r requirements.txt
