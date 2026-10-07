@@ -1,4 +1,3 @@
+#!/bin/python
 
-
-print('Hajimemashite sekai!')
-
+print('Hello! World, hope you\'re doing well!')
